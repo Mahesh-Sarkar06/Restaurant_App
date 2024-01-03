@@ -1,6 +1,8 @@
 # food_ui
 
-A new Flutter project.
+Flutter project on demonstration of modern day restaurant UI.
+<br>
+It contains some food items & its description with user friendly animations & experience.
 
 ## Getting Started
 
